@@ -77,6 +77,6 @@ If you use this script, please cite:
 
 DaVisio, K. (2026). *Social Media OCR Pipeline* [Analytic Script]. GitHub. https://github.com/kdavisio/Social-Media-OCR-Pipeline
 
-You may also use the "Cite this repository" button on the GitHub page, or see [`CITATION.cff`](CITATION.cff).
+You may also see [`CITATION.cff`](CITATION.cff).
 
 Licensed under MIT. See `LICENSE`.
