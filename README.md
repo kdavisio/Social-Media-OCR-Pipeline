@@ -5,8 +5,6 @@ This pipeline extracts texts from images (i.e., screenshots) of social media pos
 The defined input file is a folder of images (in .jpeg, .jpg, or .png form) and outputs a .csv with one full row per image. Each row includes the extracted text, an average confidence score, and a flag for low-confidence reads. Note: If the use-case requires comments to be separated from the original post, the aggregation step should be disabled (i.e., the groupby block in OCR_script.py)
 
 
-## Example
-
 ## Installation
 
 Tested with Python 3.12.
