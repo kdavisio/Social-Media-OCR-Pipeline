@@ -1,0 +1,9 @@
+   cff-version: 1.2.0
+   message: "If you use this analysis pipeline, please cite it as below."
+   title: "Social Media OCR Pipeline"
+   authors:
+     - family-names: "DaVisio"
+       given-names: "Kaitlyn"
+   date-released: "2026-11-13"
+   url: "https://github.com/kdavisio/Social-Media-OCR-Pipeline"
+
